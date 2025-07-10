@@ -1,6 +1,6 @@
 📄 Langitude – Privacy Policy
 
-Effective Date: [Insert date]
+Effective Date: 2025-07-10
 Developer: Dmitrii Iascov
 
 Langitude respects your privacy. This Privacy Policy explains how we collect, use, and protect your data when you use our app.
@@ -47,7 +47,7 @@ All data is securely stored using Firebase, which complies with leading security
 
 You can delete your account and all associated data at any time:
 	•	Through the app’s settings
-	•	Or by contacting us at: [your support email]
+	•	Or by contacting us at: dmitrii.iascov@gmail.com
 
 Once deleted, your data is permanently removed from our systems.
 
@@ -67,4 +67,4 @@ We comply with GDPR, CCPA, and other applicable privacy regulations.
 📬 7. Contact
 
 For any questions about this policy, contact:
-📧 [your@email.com]
+📧 dmitrii.iascov@gmail.com
